@@ -2,7 +2,7 @@
   "name": "denon_remote",
   "version": "1.0.0",
   "description": "A node.js wrapper for controlling denon receivers",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -36,5 +36,8 @@
     "minimist": "^1.2.0",
     "telnet-client": "^0.12.3",
     "winston": "^2.3.0"
+  },
+  "bin": {
+    "denon_remote": "bin/index.js"
   }
 }

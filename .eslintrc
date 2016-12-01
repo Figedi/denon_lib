@@ -5,6 +5,7 @@
     "node": true
   },
   "rules": {
+    "max-len": [2, 120],
     "arrow-parens": ["off"],
     "consistent-return": "off",
     "comma-dangle": "off",
