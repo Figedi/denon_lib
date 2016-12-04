@@ -27,4 +27,4 @@ Usage library
 Help
 ---------
 
-I'm always open to new ideas,
+I'm always open to new ideas, feel free to post issues or open a pull request
