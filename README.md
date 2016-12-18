@@ -28,3 +28,9 @@ Help
 ---------
 
 I'm always open to new ideas, feel free to post issues or open a pull request
+
+Features
+---------
+
+* [x] Support for Multiline-Responses
+* [x] Shorthand Methods for common commands, such as tv/pc/vol
