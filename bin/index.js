@@ -11,7 +11,7 @@ if (require.main === module) {
       console.error(r.error); // eslint-disable-line
       process.exit(1);
     } else {
-      console.log(r.response); // eslint-disable-line
+      console.log(r.formatted || r.response); // eslint-disable-line
       process.exit(0);
     }
   };
