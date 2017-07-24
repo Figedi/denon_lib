@@ -11,6 +11,13 @@
     "promise/always-return": 2,
     "promise/catch-or-return": 2,
     "promise/no-native": 0,
+    "comma-dangle": [2, {
+        "arrays": "always-multiline",
+        "objects": "always-multiline",
+        "imports": "always-multiline",
+        "exports": "always-multiline",
+        "functions": "never"
+    }]
   },
   "plugins": [
     "import",
